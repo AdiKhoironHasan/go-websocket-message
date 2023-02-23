@@ -1,0 +1,3 @@
+- this service to run client websocket in browser
+- always listen data on localhost:8080
+- open localhost:8081 in browser

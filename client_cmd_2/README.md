@@ -1,0 +1,2 @@
+- this service to run client websocket in cmd
+- always listen data on localhost:8080

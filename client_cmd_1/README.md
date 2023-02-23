@@ -1,0 +1,2 @@
+- this service to run client websocket in cmd
+- always send dummy data to all user every 3 second to localhost:8080

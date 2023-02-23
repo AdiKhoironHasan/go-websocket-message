@@ -1,0 +1,5 @@
+- looping untuk send pesan dr server ke client 
+- ketinggalan data tidak dapat diambil kembali
+- menjaga banyak koneksi client
++ data realtime 
++ cross platform connection
